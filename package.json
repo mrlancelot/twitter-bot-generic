@@ -1,0 +1,16 @@
+{
+  "name": "twitterbotinator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node botinator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "images": "^3.2.3",
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  }
+}

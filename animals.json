@@ -1,0 +1,89 @@
+{
+    "animals": [
+        {
+            "animal": "sloth",
+            "statement": "Sloths spend 90% of their lives motionless, which means they are slightly more productive than you.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "mosquito",
+            "statement": "Mosquitos are as insignificant and unimportant as you but at least people notice when they’re around.",
+            "refLink": "./images/cockroach.png"
+        },
+        {
+            "animal": "cow",
+            "statement": "You have the same amount of chins that a cow has stomachs.",
+            "refLink": "./images/cowShit.png"
+        },
+        {
+            "animal": "dog",
+            "statement": "Not even a dog would love you.",
+            "refLink": "./images/dogShit.png"
+        },
+        {
+            "animal": "jellyfish",
+            "statement": "The fact that jellyfish have survived for 600 million year without a brain gives you hope.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "dragonfly",
+            "statement": "Female dragon flies will pretend to be dead in order to avoid unwanted male advances, I bet you can relate, huh?",
+            "refLink": "./images/cockroach.png"
+        },
+        {
+            "animal": "whale",
+            "statement": "A blue whales penis is 12 inches in diameter and 10 feet long making it the worlds second largest dick, after you!",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "ostrich",
+            "statement": "I’ve seen ostriches with better calves than you.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "mayfly",
+            "statement": "The Mayfly has a lifespan of just 24 hours. I never thought I could envy them, until I met you.",
+            "refLink": "./images/cockroach.png"
+        },
+        {
+            "animal": "panda",
+            "statement": "You fuck like a Panda.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "duck",
+            "statement": "Your mind is screwier than a duck’s penis.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "turtle",
+            "statement": "You’re doing an amazing job of showing up turtles. They can only breath out their ass, you can have a whole conversation.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "donkey",
+            "statement": "Are you a donkey? Because you look like an ass.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "Cockroach",
+            "statement": "Cockroaches are able to survive the radiation , which explains how every relationship you’ve ever been in going nuclear.",
+            "refLink": "./images/cockroach.png"
+        },
+        {
+            "animal": "pig",
+            "statement": "Insulting you by calling you a pig would be an insult to the pigs.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "Horses",
+            "statement": "Horses cannot vomit, but Im sure looking at you makes them want to.",
+            "refLink": "./images/poop.png"
+        },
+        {
+            "animal": "Slug",
+            "statement": "Slugs have four noses, meaning they would probably die if they got close enough to smell your bullshit.",
+            "refLink": "./images/slug.png"
+        }
+    ]
+}
